@@ -1,0 +1,15 @@
+{
+  "name": "lawtex-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "A theme for who wants the appearance of Lawtex in Sublime Text to work in Atom.",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/looplexLukasC/lawtex-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
